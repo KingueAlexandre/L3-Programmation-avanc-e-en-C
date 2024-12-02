@@ -1,0 +1,102 @@
+commit 287caa73196a1cbd14a936d49c4564ac18abb4ec
+Author: NODA Thomas <thomas.noda@edu.univ-eiffel.fr>
+Date:   Fri Jan 14 19:55:13 2022 +0100
+
+    Dernier dépot
+
+commit 3d5d0e3092c71e171e7a4116db9ed15aa12b733e
+Author: NODA Thomas <thomas.noda@edu.univ-eiffel.fr>
+Date:   Fri Jan 14 19:16:44 2022 +0100
+
+    Dépot de rapport
+
+commit 8b5843222ba82cdb135a2b21cb3307e2c9183b25
+Author: NODA Thomas <thomas.noda@edu.univ-eiffel.fr>
+Date:   Fri Jan 14 17:40:01 2022 +0100
+
+    Changement pour le sauvegarde
+
+commit b991e141fe715ced22db4f9cfc435240ddfbb842
+Author: NODA Thomas <thomas.noda@edu.univ-eiffel.fr>
+Date:   Fri Jan 14 15:37:30 2022 +0100
+
+    Changement pour le sauvegarde
+
+commit 320fccf608dd806f05ce0f15bff3d03ccfa4b85a
+Author: KINGUE DIFFOUM LOBE ALEXANDRE <kinguediffouml@localhost.localdomain>
+Date:   Fri Jan 14 13:19:41 2022 +0100
+
+    Projet presque finie
+
+commit ed3b56807011915af18f3ccd87650c9fce3783e9
+Author: NODA Thomas <thomas.noda@edu.univ-eiffel.fr>
+Date:   Fri Jan 14 12:49:55 2022 +0100
+
+    Changement pour l'enregistrement et la lecture du jeu
+
+commit 7d928761c593c63cbd9eb8fa6825a82ded168eb2
+Author: NODA Thomas <thomas.noda@edu.univ-eiffel.fr>
+Date:   Thu Jan 13 17:29:15 2022 +0100
+
+    Fonctions de sauvegarde et de lecture de la partie, et tous changements pour ces fonctions
+
+commit b4eed64773f9f36bb2c79aa101a2707e981cbef8
+Author: ALEXANDRE <kinguediffouml@edu.univ-eiffel.fr>
+Date:   Thu Jan 13 04:22:16 2022 +0100
+
+    Implantation du donjon, ajout du Lv up et amélioration de l'affichage graphique
+
+commit 7702f46b9699b98ee5bdc0831f70de2dfbbb8aae
+Merge: 62a8c35 10c64cc
+Author: ALEXANDRE <kinguediffouml@edu.univ-eiffel.fr>
+Date:   Wed Jan 12 05:09:48 2022 +0100
+
+    Affichage Graphique et combat de mélée
+
+commit 62a8c35d645f07a843aa9b0b2650054cdfea95de
+Author: ALEXANDRE <kinguediffouml@edu.univ-eiffel.fr>
+Date:   Wed Jan 12 04:56:24 2022 +0100
+
+    Makefile creation du terrain
+
+commit 10c64cc5eeb3c2cce3c01ddd0c3165f9b27afe8b
+Author: NODA Thomas <thomas.noda@edu.univ-eiffel.fr>
+Date:   Tue Jan 11 22:17:05 2022 +0100
+
+    Initialisation de joueur, gestion de l'expérience et modification de la probabilité
+
+commit 930fa53ed62bf36524e4d72598c01218482bf4fa
+Author: NODA Thomas <thomas.noda@edu.univ-eiffel.fr>
+Date:   Sun Jan 9 17:52:14 2022 +0100
+
+    Génération des trésors, monstres dans le plateau
+
+commit ac1c5ecec7a09154d4d9eba6aaa02008607e4845
+Author: NODA Thomas <thomas.noda@edu.univ-eiffel.fr>
+Date:   Sun Jan 9 15:56:28 2022 +0100
+
+    Petit changement pour les fonctions de tour
+
+commit a7e23defe71f57f26e022a3c9d8f9de632e15da0
+Author: NODA Thomas <thomas.noda@edu.univ-eiffel.fr>
+Date:   Fri Jan 7 19:44:37 2022 +0100
+
+    Ajout des fonctions de potion
+
+commit 7f07a8cd425ac1f35bf0484cf32d8833e059ac84
+Author: NODA Thomas <thomas.noda@edu.univ-eiffel.fr>
+Date:   Fri Jan 7 16:40:07 2022 +0100
+
+    Petit modification sur la création du terrain, et ajout des fonctions de combat
+
+commit c2a95c61f8a1389130d718aa91dad374ff12b3ca
+Author: ALEXANDRE <kinguediffouml@edu.univ-eiffel.fr>
+Date:   Thu Jan 6 03:38:54 2022 +0100
+
+    Makefile creation du terrain
+
+commit 0da11d108eb509e8998a439f39c29a9a5d40172b
+Author: KINGUE DIFFOUM LOBE ALEXANDRE <kinguediffouml@localhost.localdomain>
+Date:   Tue Jan 4 14:29:09 2022 +0100
+
+    Test
